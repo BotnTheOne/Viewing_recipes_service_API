@@ -7,7 +7,7 @@ services:
     env_file:
       - ./.env
   backend:
-    image: ifize/foodgram-backend:latest
+    image: botns/foodgram-backend:latest
     restart: always
     volumes:
       - static_value:/app/static/
@@ -19,7 +19,7 @@ services:
       - ./.env
 
   frontend:
-    image: ifize/foodgram-frontend:latest
+    image: botns/foodgram-frontend:latest
     volumes:
       - ../frontend/:/app/result_build/
   nginx:

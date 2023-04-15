@@ -10,7 +10,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['158.160.9.25', 'localhost', 'backend', '127.0.0.1:8000', '127.0.0.1']
+ALLOWED_HOSTS = ['158.160.0.53', 'localhost', 'backend', '127.0.0.1:8000', '127.0.0.1']
 
 
 # Application definition

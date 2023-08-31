@@ -20,7 +20,7 @@
 
 Клонировать репозиторий:
 ```
-git@github.com:ifize/foodgram-project-react.git
+git@github.com:BotnTheOne/foodgram-project-react.git
 ```
 
 В директории infra создать файл .env и заполнить такими данными:

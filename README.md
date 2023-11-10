@@ -1,4 +1,4 @@
-# Foodgram
+# Сервис для размещения рецептов Foodgram.
 ![Foodgram workflow](https://github.com/ifize/foodgram-project-react/actions/workflows/main.yml/badge.svg)
 
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
